@@ -2,7 +2,7 @@ import Calculadora from "./model.js";
 
 const calculadora = new Calculadora();
 
-function display(val){
+export function display(val){
     document.getElementById('display_val').value = val;
 }
 

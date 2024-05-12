@@ -17,5 +17,3 @@ document.getElementById("plusButton").onclick = function() {set_op('+')};
 document.getElementById("minusButton").onclick = function() {set_op('-')};
 document.getElementById("multiplyButton").onclick = function() {set_op('*')};
 document.getElementById("divideButton").onclick = function() {set_op('/')};
-
-
